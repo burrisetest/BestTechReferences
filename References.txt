@@ -225,6 +225,9 @@ I think working with our prototype the next few days will get us moving towards 
 of how we are going to go about tackling the features of the application. Basic functionality once we 
 have completed the protoype and build from there.  
 
+====Suggestions by Haseeb khan=====================================
+i think this practice can help alot in our git work
+
 
 This reference details how to export data to an Excel spreadsheet using C#.
 
