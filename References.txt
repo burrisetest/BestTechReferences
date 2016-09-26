@@ -232,3 +232,6 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+====Suggestions by Abdullah Mateen=====================================
+you will find almost all SQL statements at this link. Easy to understand very helpfull
+http://www.w3schools.com/sql/default.asp
