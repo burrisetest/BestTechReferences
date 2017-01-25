@@ -232,3 +232,11 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+====Suggestions by Zach Brown========================================
+
+
+http://www.w3schools.com/sql/ As suggested by Francisco Pedrosa Jr W3schools is a great website for learning topics related to web development. Such as HTML5, CSS, SQL, JS.
+
+https://www.youtube.com/user/thenewboston is a great youtube channel for learning languages such at JS, Python, Java, Android. 
+======================================================================
