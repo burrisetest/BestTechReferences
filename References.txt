@@ -232,3 +232,22 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+
+===== Suggestions by Wayne Nguyen ===============
+
+There are many resources online that can help.
+
+This link is for github beginners (youtube)
+https://www.youtube.com/watch?v=0fKg7e37bQE
+
+this link is an intro to android studio (youtube)
+https://www.youtube.com/watch?v=0wrJA3mAcSo
+
+this link is for an intro to JAVA
+https://www.youtube.com/watch?v=oqnLQVFaqYI&list=PLXqaWKDQpdPn4UJ2fOFxl6Yl_DC51FFUL
+
+other useful webpages are out there, specifics can be looked up , but another good resources are out there.. aka Prof. Hare or other students
+
+=====================================================================================================================
+
