@@ -232,3 +232,18 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+
+================ Suggestions by David Saiyan =======================================
+
+I've been playing around with Angular 2 recently, and it would be great to create an MVC application.
+
+I'm not exactly sure what the application's requirements are at the moment, but I think having an API built in .NET combined with an angular 2 UI is the way to go.
+
+The angular cli can be downloaded here:
+https://cli.angular.io/
+
+some good examples can be found here
+https://angular.io/docs/ts/latest/tutorial/toh-pt3.html
+
+=========================================================================================
