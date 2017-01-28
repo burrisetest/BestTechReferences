@@ -232,3 +232,10 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+
+===Suggestions by Lucy Kull==================
+
+http://asana.com/ is an excellent resource for working on a team.  It allows you to create and complete tasks for your group as well as for yourself.  It has a section for files, and an inbox for messages and issues on your team.  It is an excellent organization tool.
+
+========================================================
