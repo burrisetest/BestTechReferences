@@ -232,3 +232,17 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+=== Suggestions by Binh Man ========================
+Here are a few resources for where I got started on Github:
+https://guides.github.com/activities/hello-world/
+https://github.com/blog/1510-installing-git-from-github-for-mac
+The above link was helpful for me for specifically using the project on Mac
+
+Suggestions on how to get started with .NET (C-sharp):
+https://www.microsoft.com/net/tutorials/csharp/getting-started
+https://msdn.microsoft.com/en-us/library/aa309390(v=vs.71).aspx
+This tutorial is a good starting point for .NET applications and looks to be informative. 
+
+
+========================================================
