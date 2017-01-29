@@ -232,3 +232,15 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+====Suggestions by Colin Zeiler=====================================
+
+Since the project for this semester must use the .NET framework, I thought it would be helpful to look at some
+programming exercises that use C# in order to get used to the language. There is also a link to a programmer's 
+reference page.
+
+https://msdn.microsoft.com/en-us/library/aa288436(v=vs.71).aspx
+
+This project also requires compatibility with SQL Server 2012, so I figured a reference on how to access SQL databases in
+Visual studio would also be helpful.
+
+https://msdn.microsoft.com/en-us/library/wzabh8c4.aspx
