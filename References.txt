@@ -232,3 +232,10 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+====Suggestions by Nick King=======================================
+
+Resource for learning .NET framework, useful beginner tutorials and explanations
+https://www.youtube.com/watch?v=iRSAmekqRBo&t=799s
+
+====================================================================
