@@ -232,3 +232,13 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+====Suggestions by Max Schoettger=====================================
+
+The Wikipedia Reference page for .NET gave me a better perspective on the history of the framework and why many enterprises choose to implement it.
+https://en.wikipedia.org/wiki/.NET_Framework
+
+Bootstrap is a great framework for developing responsive web pages. I use it on all the websites that I develop. The best two sources that I frequently use when developing webpages are the documentation provided by Bootstrap on their CSS page and the W3 school's documentation on the framework. These resources provide me with everything that I need to ensure that the webpages that I design are adequately responsive on a range of devices.
+http://getbootstrap.com/css/
+http://www.w3schools.com/bootstrap/default.asp
+===================================================================
