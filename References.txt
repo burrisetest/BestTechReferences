@@ -232,3 +232,10 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+====Suggestions by Omer Affan================================================
+
+Essentials of Machine Learning Algorithms (with Python and R Codes):
+https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+
+=================================================================================
