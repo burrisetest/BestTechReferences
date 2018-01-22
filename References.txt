@@ -232,3 +232,9 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+=== Suggestions by Stephen Ritchie =====================
+This is a good reference for Google's style guide on Python
+
+https://google.github.io/styleguide/pyguide.html
+========================================================
