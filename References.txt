@@ -1,5 +1,3 @@
-Instructions: Look around for books, videos, articles, blogs, etc. for learning about the technologies needed for the project this semester. Add a section below that includes your name and the resources you recommend for learning about the different technologies we will be using this semester. If one of your recommendations is the same as someone else's, say what makes it a good reference. You should include at least one new reference that hasn't been mentioned yet.
-
 === Some Suggestions by Eddie Burris ========================
 
 The following hands-on tutorial offers a nice introduction to MVC 4:
@@ -231,4 +229,13 @@ This reference details how to export data to an Excel spreadsheet using C#.
 http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
+===================================================================
+
+=====Suggestion by Elijah Staton=================================
+
+https://wiki.jenkins.io/display/JENKINS/Jenkins+Best+Practices
+
+This site has good information regarding best practices when ultilizing Jenkins.
+Following these practices will prevent headaches in the future when working on our project.
+
 ===================================================================
