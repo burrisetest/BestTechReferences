@@ -232,3 +232,16 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+
+===Suggestions by Kyle Williams====================================
+
+https://www.w3schools.com/html/default.asp
+
+This is a good tutorial for learning how to write HTML.
+
+It is perhaps one of the most comprehensive tutorials on the web
+and is good for anyone, even if they have never learned to
+code.
+
+===================================================================
