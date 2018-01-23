@@ -10,7 +10,6 @@ MVC: Pro ASP.NET MVC 4 (There is a newer version of this book that covers MVC 5.
 
 ========================================================
 
- 
 === Suggestions by Todd Brees ======================== 
 MSDN integration of GitHub with Visual Studio 
 requires msdn account 
@@ -232,3 +231,12 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+=== Suggestions by Lukas Dziatkowski ===================
+IBM has a good article on the best principles to follow
+to prevent failure of a software development project.  
+Even though it is a bit old, its guidelines are still 
+very relevent:
+https://www.ibm.com/developerworks/websphere/library/techarticles/0306_perks/perks2.html
+
+========================================================
