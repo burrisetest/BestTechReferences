@@ -232,3 +232,16 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+===Suggestions by Tanner Coffman====================================
+One of the most important parts of the project is understanding the tools we have.
+
+https://www.tutorialspoint.com/jenkins/index.htm
+
+Above is a link to a tutorial on how to use Jenkins.  Jenkins is the backbone for this project
+and having a good grasp of it is imperative. There are references on how to use Jenkins with Maven and many
+other things.
+
+https://www.tutorialspoint.com/jenkins/jenkins_maven_setup.htm
+
+===================================================================
